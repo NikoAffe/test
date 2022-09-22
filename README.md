@@ -1,2 +1,2 @@
 # test
-mein erster repository :)
+mein erstes repository :)
